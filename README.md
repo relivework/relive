@@ -1,5 +1,5 @@
 
--<h1 align="center">Hi 👋, I'm Gaurav Mehta</h1>
+<h1 align="center">Hi 👋, I'm Gaurav Mehta</h1>
 <h3 align="center">Engineer who coded first website in 2005 and got bored. Came back to tech world in 2013, thank to crypto virus and since then I have been practicing startup, entreprenuer, technology, innovation, disruption, problem solving, marketing, critical thinking, blockchain forensics, product management, product development, reasearch in domain on post quantum cryptography, bioinformatics, regulation technology, sustainability, virtual reality, metaverse, DAOs, and various components of web3</h3>
 
 - 🌱 I’m currently running life in localhost and dev enviroment. Expect to go into production soon.
