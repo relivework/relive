@@ -1,6 +1,3 @@
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://tenor.com/view/lufcmen-dancingmen-lufckop-kopscoreboard-leedsunited-gif-18674250" width="100"/>
-</div>
 
 -<h1 align="center">Hi 👋, I'm Gaurav Mehta</h1>
 <h3 align="center">Engineer who coded first website in 2005 and got bored. Came back to tech world in 2013, thank to crypto virus and since then I have been practicing startup, entreprenuer, technology, innovation, disruption, problem solving, marketing, critical thinking, blockchain forensics, product management, product development, reasearch in domain on post quantum cryptography, bioinformatics, regulation technology, sustainability, virtual reality, metaverse, DAOs, and various components of web3</h3>
