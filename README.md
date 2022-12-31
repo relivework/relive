@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav Mehta</h1>
-<h3 align="center">Engineer who coded first website in 2005 and got bored. Came back to tech world in 2013, thank to crypto virus and since then I have been practicing startup, entreprenuer, technology, innovation, disruption, problem solving, marketing, critical thinking, blockchain forensics, product management, product development, reasearch in domain on post quantum cryptography, bioinformatics, regulation technology, sustainability, virtual reality, metaverse, DAOs, and various components of web3</h3>
+<h3 align="center">Enginner who built his or her first website in 2005 and has been sitting on it ever since. Thanks to a crypto virus in 2013, I'm back in the tech industry, where I've been ever since, working in fields as diverse as development, system design, data analytics, blockchain forensics, product management, and development, and babbling with emerging technology of post-quantum cryptography, bioinformatics, RegTech, sustainability, virtual reality, the metaverse, decentralised autonomous organisations (DAOs), and more.</h3>
 
 - 🌱 I’m currently running life in localhost and dev enviroment. Expect to go into production soon.
 
@@ -8,7 +8,7 @@
 
 <!-- - 📝 I regularly write articles on [Private Blog](https://gawrav.substack.com) -->
 
-- 💬 Ask me about **ideation, startup, innovation, disruption, product development, product planning, cryptocurrency, blockchain, DAOs,and more...**
+- 💬 Ask me about **ideation, startup, development, problem solving, innovation, disruption, product development, product planning, cryptocurrency, blockchain, DAOs, policy making and more...**
 
 - 📫 How to reach me **gewgawrav@gmail.com**
 
