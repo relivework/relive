@@ -19,26 +19,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/gewgawrav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gewgawrav" height="30" width="40" /></a>
-<a href="https://dev.to/gewgawrav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gewgawrav" height="30" width="40" /></a>
 <a href="https://twitter.com/gewgawrav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gewgawrav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gewgawrav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gewgawrav" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/gewgawrav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gewgawrav" height="30" width="40" /></a>
-<a href="https://codesandbox.com/gewgawrav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="gewgawrav" height="30" width="40" /></a>
 <a href="https://kaggle.com/gewgawrav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gewgawrav" height="30" width="40" /></a>
 <a href="https://fb.com/gewgawrav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gewgawrav" height="30" width="40" /></a>
 <a href="https://instagram.com/gewgawrav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gewgawrav" height="30" width="40" /></a>
-<a href="https://dribbble.com/gewgawrav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="gewgawrav" height="30" width="40" /></a>
-<a href="https://www.behance.net/gewgawrav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gewgawrav" height="30" width="40" /></a>
 <a href="https://medium.com/gewgawrav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="gewgawrav" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gewgawrav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gewgawrav" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/gewgawrav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gewgawrav" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gewgawrav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gewgawrav" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gewgawrav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="gewgawrav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gewgawrav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gewgawrav" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/gewgawrav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="gewgawrav" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gewgawrav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gewgawrav" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/gewgawrav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="gewgawrav" height="30" width="40" /></a>
 <a href="https://discord.gg/gewgawrav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gewgawrav" height="30" width="40" /></a>
 </p>
 
