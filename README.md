@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav Mehta</h1>
-<h3 align="center">Enginner who built his or her first website in 2005 and has been sitting on it ever since. Thanks to a crypto virus in 2013, I'm back in the tech industry, where I've been ever since, working in fields as diverse as development, system design, data analytics, blockchain forensics, product management, and development, and babbling with emerging technology of post-quantum cryptography, bioinformatics, RegTech, sustainability, virtual reality, the metaverse, decentralised autonomous organisations (DAOs), and more.</h3>
+<h3 align="center">As an engineer, I created my first website in 2005, but due to various reasons, I never pursued it further. However, in 2013, my life took an unexpected turn when a crypto virus hit my system. Despite the initial frustration, this incident reignited my passion for technology, and I decided to jump back into the tech industry with renewed energy.</h3>
+<h3 align="center">Since then, I have been actively involved in various tech-related fields, such as development, system design, data analytics, and blockchain forensics, to name a few. I have also honed my skills in product management and development, which has allowed me to work on numerous projects with different teams.</h3>
+<h3 align="center">I am fascinated by emerging technologies and their potential to shape the future. Over the years, I have been exploring post-quantum cryptography, bioinformatics, RegTech, sustainability, virtual reality, the metaverse, decentralized autonomous organizations (DAOs), and many other exciting fields. This exploration has broadened my perspective and helped me develop a comprehensive understanding of the tech industry's latest trends and innovations.</h3>
+<h3 align="center">My journey from building my first website to exploring emerging technologies has been an exciting one, and I am eager to continue learning and growing with each passing day.</h3>
 
 - 🌱 I’m currently running life in localhost and dev enviroment. Expect to go into production soon.
 
@@ -8,7 +11,7 @@
 
 <!-- - 📝 I regularly write articles on [Private Blog](https://gawrav.substack.com) -->
 
-- 💬 Ask me about **ideation, startup, development, problem solving, innovation, disruption, product development, product planning, cryptocurrency, blockchain, DAOs, policy making and more...**
+- 💬 Ask me about **ideation, startup, development, problem solving, innovation, disruption, product development, product planning, cryptocurrency, blockchain,  forensic auditing, DAOs, privacy and NeRF.**
 
 - 📫 How to reach me **gewgawrav@gmail.com**
 
