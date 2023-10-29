@@ -1,19 +1,18 @@
+<h1 align="center">Hey there! I'm Gaurav Mehta 🚀</h1>
+<h3 align="center">Back in '05, I dipped my toes into the web world and crafted my very first website. Though life took me on a detour, a run-in with a crypto virus in 2013 was the twist I didn't know I needed. That spark from the past flared up, driving me straight back into the tech realm with a zest like never before.</h3>
+<h3 align="center">Fast forward to now, my tech-adventure has seen me donning various hats—developer, system architect, data analyst, blockchain detective, and even the strategist behind stellar products. Collaborating on myriad projects with diverse teams has been the highlight of my journey.</h3>
+<h3 align="center">The ever-evolving tech landscape captivates me! From unraveling the mysteries of post-quantum cryptography and bioinformatics to delving into the realms of VR, the metaverse, DAOs, and so much more—the thirst to decode the 'next big thing' keeps me going.</h3>
+<h3 align="center">From a fledgling website maker to a tech aficionado exploring futuristic domains, it's been one wild ride! And guess what? I'm all geared up for the adventures yet to come.</h3>
 
-<h1 align="center">Hi 👋, I'm Gaurav Mehta</h1>
-<h3 align="center">As an engineer, I created my first website in 2005, but due to various reasons, I never pursued it further. However, in 2013, my life took an unexpected turn when a crypto virus hit my system. Despite the initial frustration, this incident reignited my passion for technology, and I decided to jump back into the tech industry with renewed energy.</h3>
-<h3 align="center">Since then, I have been actively involved in various tech-related fields, such as development, system design, data analytics, and blockchain forensics, to name a few. I have also honed my skills in product management and development, which has allowed me to work on numerous projects with different teams.</h3>
-<h3 align="center">I am fascinated by emerging technologies and their potential to shape the future. Over the years, I have been exploring post-quantum cryptography, bioinformatics, RegTech, sustainability, virtual reality, the metaverse, decentralized autonomous organizations (DAOs), and many other exciting fields. This exploration has broadened my perspective and helped me develop a comprehensive understanding of the tech industry's latest trends and innovations.</h3>
-<h3 align="center">My journey from building my first website to exploring emerging technologies has been an exciting one, and I am eager to continue learning and growing with each passing day.</h3>
+- 🚀 I'm currently gearing up, working in a dev sandbox. Production mode? Coming soon!
 
-- 🌱 I’m currently running life in localhost and dev enviroment. Expect to go into production soon.
+- 👓 Dive deep into my tech saga here: [https://www.linkedin.com/in/gawravmehta](https://www.linkedin.com/in/gawravmehta)
 
-- 👨‍💻 Know about my experiences [https://www.linkedin.com/in/gawravmehta](https://www.linkedin.com/in/gawravmehta)
+<!-- - ✍️ Scribbling my tech thoughts over at [Private Blog](https://gawrav.substack.com) -->
 
-<!-- - 📝 I regularly write articles on [Private Blog](https://gawrav.substack.com) -->
+- 🎤 Got a question? Hit me up about **startups, tech innovations, blockchain intricacies, the universe of DAOs, digital privacy, NeRF magic, and beyond!**
 
-- 💬 Ask me about **ideation, startup, development, problem solving, innovation, disruption, product development, product planning, cryptocurrency, blockchain,  forensic auditing, DAOs, privacy and NeRF.**
-
-- 📫 How to reach me **gewgawrav@gmail.com**
+- 💌 Ping me anytime at **gewgawrav@gmail.com**. Let's chat tech! 🌟
 
 
 <h3 align="left">Languages and Tools:</h3>
