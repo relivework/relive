@@ -6,6 +6,8 @@
 
 - 🚀 I'm currently gearing up, working in a dev sandbox. Production mode? Coming soon!
 
+- 🚀 Founder at: [Catax - Simple Crypto Taxes](https://catax.app), [National Digital Asset Exchange](https://ndax.in), [Blockright](https://blockright.org), [Atithi Compliance System](https://atithi.live), [Red Wallet Initative](https://redwallet.live), [Codesplain - AI Codebase Documentation](https://codesplain.live)
+
 - 👓 Dive deep into my tech saga here: [https://www.linkedin.com/in/gawravmehta](https://www.linkedin.com/in/gawravmehta)
 
 <!-- - ✍️ Scribbling my tech thoughts over at [Private Blog](https://gawrav.substack.com) -->
