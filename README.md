@@ -10,11 +10,11 @@
 
 [Metamask Tax Calculator](https://catax.app)
 
-[Concur - Consent Manager] (https://concur.live)
+[Concur - Consent Manager](https://catax.app)
 
-[Codesplain - AI Codebase Documentation] (https://codesplain.live)
+[Codesplain - AI Codebase Documentation](https://codesplain.app)
 
-[Clayhouse] (https://clayhouse.live)
+[Clayhouse](https://clayhouse.app)
 
 
 
